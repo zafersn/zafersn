@@ -6,5 +6,4 @@ I am a highly motivated, enthusiastic, dedicated and driven Embedded System Engi
 - 👯 I’m contributing to ZephyrOS and Robot Operating System (ROS)
 - 🌱 I’m currently learning Linux kernel & driver development for Android Ecosystem
 - 💬 Ask me about IoT systems, software & hardware design and cloud infrastructure. I'm also obsessed with robots
-- 📫 How to reach me: [twitter/zafersn](https://twitter.com/zafersn93) or [LinkedIn/zafersn](https://www.linkedin.com/in/zafersn93/)
 - ⚡ Fun fact: I loovveee pasta with yoghurt (don't get mad at me my Italian friends :) )
