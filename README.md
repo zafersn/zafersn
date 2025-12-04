@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a highly motivated, enthusiastic, dedicated and driven Embedded System Engineer focusing on IoT and Wireless systems as both hardware and software design.
+I am a highly motivated, and driven Embedded System Engineer focusing on IoT and Wireless systems as both hardware and software design.
 
 - 🔭 I’m currently working on one device that stays on the container for the entire lifecycle delivering real-time tracking, door security, intermodal mode identification, and carbon counter for each move the container makes.
 - 👯 I’m contributing to ZephyrOS and Robot Operating System (ROS)
